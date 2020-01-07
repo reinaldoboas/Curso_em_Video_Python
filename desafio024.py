@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio024.py
+### Link: https://www.youtube.com/watch?v=QroT8cZMRnc&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=34
 ### - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 
 # Recebendo a entrada do usuário com o nome da cidade e modificando todos os caracteres para minusculo e removendo os espaços antes e depois
