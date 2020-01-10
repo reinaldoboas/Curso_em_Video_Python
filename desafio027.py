@@ -10,7 +10,7 @@ nome = str(input("Digite o seu nome completo: ")).strip().split() #usando a fun�
 
 #setando as variaveis e sepando de acordo com o número da palavra
 primeiro = nome[0]
-ultimo = nome[len(nome) - 1]
+ultimo = nome[len(nome) - 1] #usado o menos 1 pois na contagem das palavras ele inicia no número zero
 
 print(f"O nome inteiro é: {nome}")
 print(f"Primeiro nome: {primeiro}")
