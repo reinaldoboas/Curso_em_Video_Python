@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio020.py
+### Link: https://www.youtube.com/watch?v=OPh0nngbBSY&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=29
 ### O mesmo professor do desafio quer sortear a ordem de apresentação de trabalhos dos alunos. 
 ### Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
