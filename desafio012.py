@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio012.py
+### Link: https://www.youtube.com/watch?v=4MAmKOT9FeU&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=20
 ### Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
 # Inserindo os valores
