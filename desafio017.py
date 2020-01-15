@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio017.py
+### Link: https://www.youtube.com/watch?v=vmPW9iWsYkY&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=26
 ### Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo,
 ### calcule e mostre o comprimento da hipotenusa.
 
