@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio022.py
+### Link: https://www.youtube.com/watch?v=EQQt-6QqXOs&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=32
 ### Crie um programa que leia o nome completo de uma pessoa e mostre:
 ### - O nome com todas as letras maiusculas.
 ### - O nome com todas as letras minúsculas.
