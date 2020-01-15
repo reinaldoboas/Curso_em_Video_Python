@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio011.py
+### Link: https://www.youtube.com/watch?v=mzSJpn9ldt4&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=19
 ### Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la
 ### Sabendo que cada litro de tinta, pinta uma área de 2m².
 
