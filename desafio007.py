@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio007.py
+### Link: https://www.youtube.com/watch?v=_QfISzy0IKs&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=15
 ### Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 n1 = float(input("Digite a nota da primeira prova: "))
