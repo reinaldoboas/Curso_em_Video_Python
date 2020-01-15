@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio019.py
+### Link: https://www.youtube.com/watch?v=_Nk02-mfB5I&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=28
 ### Um professor quer sortear um dos seus quatro alunos para apagar o quadro. 
 ### Faça um programam que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 
