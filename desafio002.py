@@ -1,10 +1,9 @@
 ### Curso em Vídeo - Exercicio: desafio002.py
-### Crie um script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada. 
+### Link: https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=2
+### Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
 
-# lendo as variaveis
-dia = input("Digite o dia do mês do seu nascimento: ")
-mes = input("Digite o número do mês: ")
-ano = input("Qual ano você nasceu?")
+# lendo a variavel
+nome = str(input("Digite seu nome: "))
 
 # Exibindo o resultado
-print(f"Você nasceu no dia: {dia}/{mes}/{ano}.")
+print(f"Olá {nome} você é uma pessoa muito bem vinda!")
