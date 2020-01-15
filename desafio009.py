@@ -1,4 +1,5 @@
 ### Curso em Vídeo - Exercicio: desafio009.py
+### Link: https://www.youtube.com/watch?v=qajq3SI0QQs&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=17
 ### Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
 
 num = int(input("Digite um número e descubra a sua tabuada: "))
