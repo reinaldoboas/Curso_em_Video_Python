@@ -1,6 +1,6 @@
 ### Curso em Vídeo - Exercicio: desafio001.py
-### Link: https://www.youtube.com/watch?v=FNqdV5Zb_5Q&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=8
-### Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
+### Link: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&index=1
+### Crie um programa que escreva "Olá, Mundo!" na tela.
 
-nome = input("Digite o seu nome: ")
-print(f"Olá {nome} que bom te ver por aqui!")
+msg = "Olá, Mundo!"
+print(msg)
